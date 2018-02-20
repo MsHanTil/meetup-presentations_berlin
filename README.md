@@ -4,7 +4,7 @@
  
   R-Ladies Berlin founded in October 2016 by Christin Zasada
   
-  Co-organizer Hannah Tillmann, Noa Tamir and supported by Ulrike Thalheim
+  Co-organizer Hanna Tillmanns, Noa Tamir and supported by Ulrike Thalheim
   
   Send us an e-mail at *berlin@rladies.org*
   for further information!
